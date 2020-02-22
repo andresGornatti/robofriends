@@ -1,26 +1,23 @@
 {
   "files": {
-    "main.css": "/robofriends/static/css/main.ac645b7b.chunk.css",
-    "main.js": "/robofriends/static/js/main.d8fec887.chunk.js",
-    "main.js.map": "/robofriends/static/js/main.d8fec887.chunk.js.map",
-    "runtime-main.js": "/robofriends/static/js/runtime-main.03e2f00f.js",
-    "runtime-main.js.map": "/robofriends/static/js/runtime-main.03e2f00f.js.map",
-    "static/css/2.299a5230.chunk.css": "/robofriends/static/css/2.299a5230.chunk.css",
-    "static/js/2.bdb00207.chunk.js": "/robofriends/static/js/2.bdb00207.chunk.js",
-    "static/js/2.bdb00207.chunk.js.map": "/robofriends/static/js/2.bdb00207.chunk.js.map",
-    "index.html": "/robofriends/index.html",
-    "precache-manifest.dd1f85f4b0260fcc53f40608b7c8cd76.js": "/robofriends/precache-manifest.dd1f85f4b0260fcc53f40608b7c8cd76.js",
-    "service-worker.js": "/robofriends/service-worker.js",
-    "static/css/2.299a5230.chunk.css.map": "/robofriends/static/css/2.299a5230.chunk.css.map",
-    "static/css/main.ac645b7b.chunk.css.map": "/robofriends/static/css/main.ac645b7b.chunk.css.map",
-    "static/js/2.bdb00207.chunk.js.LICENSE.txt": "/robofriends/static/js/2.bdb00207.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/robofriends/static/media/SEGA.82e09f78.TTF"
+    "main.css": "/toDoList/static/css/main.b2478532.chunk.css",
+    "main.js": "/toDoList/static/js/main.ceef8044.chunk.js",
+    "main.js.map": "/toDoList/static/js/main.ceef8044.chunk.js.map",
+    "runtime-main.js": "/toDoList/static/js/runtime-main.37caf175.js",
+    "runtime-main.js.map": "/toDoList/static/js/runtime-main.37caf175.js.map",
+    "static/js/2.ffe8c356.chunk.js": "/toDoList/static/js/2.ffe8c356.chunk.js",
+    "static/js/2.ffe8c356.chunk.js.map": "/toDoList/static/js/2.ffe8c356.chunk.js.map",
+    "index.html": "/toDoList/index.html",
+    "precache-manifest.dc67dfdfc66cb4b599beb67b03bb5996.js": "/toDoList/precache-manifest.dc67dfdfc66cb4b599beb67b03bb5996.js",
+    "service-worker.js": "/toDoList/service-worker.js",
+    "static/css/main.b2478532.chunk.css.map": "/toDoList/static/css/main.b2478532.chunk.css.map",
+    "static/js/2.ffe8c356.chunk.js.LICENSE.txt": "/toDoList/static/js/2.ffe8c356.chunk.js.LICENSE.txt",
+    "static/media/todo.css": "/toDoList/static/media/fontello.87aebd66.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.03e2f00f.js",
-    "static/css/2.299a5230.chunk.css",
-    "static/js/2.bdb00207.chunk.js",
-    "static/css/main.ac645b7b.chunk.css",
-    "static/js/main.d8fec887.chunk.js"
+    "static/js/runtime-main.37caf175.js",
+    "static/js/2.ffe8c356.chunk.js",
+    "static/css/main.b2478532.chunk.css",
+    "static/js/main.ceef8044.chunk.js"
   ]
 }
