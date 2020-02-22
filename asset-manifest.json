@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/andresGornatti/robofriends/static/css/main.0484e70d.chunk.css",
+    "main.css": "/andresGornatti/robofriends/static/css/main.313a91ce.chunk.css",
     "main.js": "/andresGornatti/robofriends/static/js/main.8e8348d7.chunk.js",
     "main.js.map": "/andresGornatti/robofriends/static/js/main.8e8348d7.chunk.js.map",
     "runtime-main.js": "/andresGornatti/robofriends/static/js/runtime-main.025ce071.js",
@@ -9,17 +9,18 @@
     "static/js/2.bdb00207.chunk.js": "/andresGornatti/robofriends/static/js/2.bdb00207.chunk.js",
     "static/js/2.bdb00207.chunk.js.map": "/andresGornatti/robofriends/static/js/2.bdb00207.chunk.js.map",
     "index.html": "/andresGornatti/robofriends/index.html",
-    "precache-manifest.320f5e6d9ef463948d3ebede79b19f68.js": "/andresGornatti/robofriends/precache-manifest.320f5e6d9ef463948d3ebede79b19f68.js",
+    "precache-manifest.5698cc179d7a182cf40571df69aea86b.js": "/andresGornatti/robofriends/precache-manifest.5698cc179d7a182cf40571df69aea86b.js",
     "service-worker.js": "/andresGornatti/robofriends/service-worker.js",
     "static/css/2.299a5230.chunk.css.map": "/andresGornatti/robofriends/static/css/2.299a5230.chunk.css.map",
-    "static/css/main.0484e70d.chunk.css.map": "/andresGornatti/robofriends/static/css/main.0484e70d.chunk.css.map",
-    "static/js/2.bdb00207.chunk.js.LICENSE.txt": "/andresGornatti/robofriends/static/js/2.bdb00207.chunk.js.LICENSE.txt"
+    "static/css/main.313a91ce.chunk.css.map": "/andresGornatti/robofriends/static/css/main.313a91ce.chunk.css.map",
+    "static/js/2.bdb00207.chunk.js.LICENSE.txt": "/andresGornatti/robofriends/static/js/2.bdb00207.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/andresGornatti/robofriends/static/media/SEGA.82e09f78.TTF"
   },
   "entrypoints": [
     "static/js/runtime-main.025ce071.js",
     "static/css/2.299a5230.chunk.css",
     "static/js/2.bdb00207.chunk.js",
-    "static/css/main.0484e70d.chunk.css",
+    "static/css/main.313a91ce.chunk.css",
     "static/js/main.8e8348d7.chunk.js"
   ]
 }
